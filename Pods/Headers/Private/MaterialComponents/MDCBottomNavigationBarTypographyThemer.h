@@ -1,0 +1,1 @@
+../../../MaterialComponents/components/BottomNavigation/src/TypographyThemer/MDCBottomNavigationBarTypographyThemer.h

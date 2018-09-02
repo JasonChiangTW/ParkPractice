@@ -1,0 +1,1 @@
+../../../MaterialComponents/components/BottomNavigation/src/TypographyThemer/MaterialBottomNavigation+TypographyThemer.h
